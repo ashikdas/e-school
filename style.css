@@ -84,9 +84,8 @@ body{
 .course{
     margin: 10px;
 }
-.course-header img{
-    width: 331px;
-    height: 234px;
+.card-img-top{
+
     padding: 24px 19px;
 }
 .course-body, .course-footer{
