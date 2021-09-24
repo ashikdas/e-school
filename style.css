@@ -131,13 +131,35 @@ body{
     padding-bottom: 50px;
 }
 #testimonial p{
- 
     padding-left: 5%;
     padding-right: 10%;
     line-height: 30px
 }
-
 .man-test img{
     width: 120px;
     height: 120px;
+}
+#footer{
+    background: #282531;
+    margin-top: 40px;
+    padding-top: 60px;
+    color: white;
+    font-weight:lighter;
+}
+#footer p{
+    color: white;
+    line-height: 30px;
+    font-size: 16px;
+    margin: 0%;
+    padding: 0%;
+}
+.f-courses{
+    padding-left: 10%;
+    font-size: 18px;
+    line-height: 30px;
+}
+footer{
+    text-align: center;
+    margin-top: 8%;
+    padding-bottom: 20px;
 }
